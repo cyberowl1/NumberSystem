@@ -9,4 +9,4 @@ __________________________________________________________________________
 4. Check if Given Number is prime or not.
 5. List factor of given number
 6. Check if prime if not list atleast a Factor.
-7. 
+7. Check if given sum is possible from given number array.
